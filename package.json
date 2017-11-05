@@ -25,7 +25,15 @@
     "start": "nodemon ./bin/www",
     "test": "server.ja"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "leks",
+  "license": "MIT",
+  "description": "simple CRUD application  built with nodejs and postgresql",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leksyib/nodepostgres.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leksyib/nodepostgres/issues"
+  },
+  "homepage": "https://github.com/leksyib/nodepostgres#readme"
 }
